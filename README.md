@@ -19,4 +19,4 @@ DEEE725 Speech Signal Processing Lab, Spring 2023
 
 ## [proj1](https://github.com/j2hn-oh/ssp2023/tree/66a9217198fb03bebbda6b3b6b29d1123ef76a8e/proj1)
 
-## [proj2](oh/ssp2023/tree/66a9217198fb03bebbda6b3b6b29d1123ef76a8e/proj2)
+## [proj2](https://github.com/j2hn-oh/ssp2023/tree/aa6e48794e39a2bebdf6d60f6a71e870de2177d3/proj2)
